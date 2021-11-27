@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tsuisse/static/css/main.7b4a7ee4.chunk.css",
-    "main.js": "/tsuisse/static/js/main.4196496c.chunk.js",
-    "main.js.map": "/tsuisse/static/js/main.4196496c.chunk.js.map",
-    "runtime-main.js": "/tsuisse/static/js/runtime-main.5826fead.js",
-    "runtime-main.js.map": "/tsuisse/static/js/runtime-main.5826fead.js.map",
-    "static/css/2.4ce9e501.chunk.css": "/tsuisse/static/css/2.4ce9e501.chunk.css",
-    "static/js/2.c4b4173a.chunk.js": "/tsuisse/static/js/2.c4b4173a.chunk.js",
-    "static/js/2.c4b4173a.chunk.js.map": "/tsuisse/static/js/2.c4b4173a.chunk.js.map",
-    "static/js/3.e6c308a2.chunk.js": "/tsuisse/static/js/3.e6c308a2.chunk.js",
-    "static/js/3.e6c308a2.chunk.js.map": "/tsuisse/static/js/3.e6c308a2.chunk.js.map",
+    "main.css": "/tsuisse/static/css/main.47b9df10.chunk.css",
+    "main.js": "/tsuisse/static/js/main.c6f9260f.chunk.js",
+    "main.js.map": "/tsuisse/static/js/main.c6f9260f.chunk.js.map",
+    "runtime-main.js": "/tsuisse/static/js/runtime-main.05f6f9bb.js",
+    "runtime-main.js.map": "/tsuisse/static/js/runtime-main.05f6f9bb.js.map",
+    "static/css/2.c9e9cf8c.chunk.css": "/tsuisse/static/css/2.c9e9cf8c.chunk.css",
+    "static/js/2.1eca16a0.chunk.js": "/tsuisse/static/js/2.1eca16a0.chunk.js",
+    "static/js/2.1eca16a0.chunk.js.map": "/tsuisse/static/js/2.1eca16a0.chunk.js.map",
+    "static/js/3.2f5b6331.chunk.js": "/tsuisse/static/js/3.2f5b6331.chunk.js",
+    "static/js/3.2f5b6331.chunk.js.map": "/tsuisse/static/js/3.2f5b6331.chunk.js.map",
     "index.html": "/tsuisse/index.html",
-    "static/css/2.4ce9e501.chunk.css.map": "/tsuisse/static/css/2.4ce9e501.chunk.css.map",
-    "static/css/main.7b4a7ee4.chunk.css.map": "/tsuisse/static/css/main.7b4a7ee4.chunk.css.map",
-    "static/js/2.c4b4173a.chunk.js.LICENSE.txt": "/tsuisse/static/js/2.c4b4173a.chunk.js.LICENSE.txt",
+    "static/css/2.c9e9cf8c.chunk.css.map": "/tsuisse/static/css/2.c9e9cf8c.chunk.css.map",
+    "static/css/main.47b9df10.chunk.css.map": "/tsuisse/static/css/main.47b9df10.chunk.css.map",
+    "static/js/2.1eca16a0.chunk.js.LICENSE.txt": "/tsuisse/static/js/2.1eca16a0.chunk.js.LICENSE.txt",
     "static/media/3f25928f-7666-4d16-91b0-115769d2072d.93bd2d11.JPG": "/tsuisse/static/media/3f25928f-7666-4d16-91b0-115769d2072d.93bd2d11.JPG",
     "static/media/CIMG_0552.382822b3.jpg": "/tsuisse/static/media/CIMG_0552.382822b3.jpg",
     "static/media/IMG_0810.3eb2eb7c.JPG": "/tsuisse/static/media/IMG_0810.3eb2eb7c.JPG",
@@ -43,14 +43,13 @@
     "static/media/logo.c4c7ecc7.png": "/tsuisse/static/media/logo.c4c7ecc7.png",
     "static/media/logo1.0ab1a27d.png": "/tsuisse/static/media/logo1.0ab1a27d.png",
     "static/media/soiree.2ec7735b.png": "/tsuisse/static/media/soiree.2ec7735b.png",
-    "static/media/wedding-dress.298f2d29.png": "/tsuisse/static/media/wedding-dress.298f2d29.png",
     "static/media/welcome.be4b9e26.jpeg": "/tsuisse/static/media/welcome.be4b9e26.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5826fead.js",
-    "static/css/2.4ce9e501.chunk.css",
-    "static/js/2.c4b4173a.chunk.js",
-    "static/css/main.7b4a7ee4.chunk.css",
-    "static/js/main.4196496c.chunk.js"
+    "static/js/runtime-main.05f6f9bb.js",
+    "static/css/2.c9e9cf8c.chunk.css",
+    "static/js/2.1eca16a0.chunk.js",
+    "static/css/main.47b9df10.chunk.css",
+    "static/js/main.c6f9260f.chunk.js"
   ]
 }
